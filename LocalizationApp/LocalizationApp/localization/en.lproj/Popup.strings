@@ -1,0 +1,8 @@
+// Popup.strings
+
+// Singles
+"popup.title" = "Playlist of the day";
+"popup.cta" = "Listen";
+"popup.cta_dismiss" = "dismiss";
+// Formats
+"popup.description" = "Hello %1$@, there are %2$@ in the playlist %3$@. Would you like to listen to it?";

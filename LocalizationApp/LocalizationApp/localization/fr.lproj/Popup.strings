@@ -1,0 +1,8 @@
+// Popup.strings
+
+// Singles
+"popup.title" = "Playlist du jour";
+"popup.cta" = "Écouter";
+"popup.cta_dismiss" = "retour";
+// Formats
+"popup.description" = "Bonjour %1$@, la playlist %3$@ contient %2$@. Souhaitez-vous l'écouter?";
